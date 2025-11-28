@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on building a full-stack web app using React, TypeScript, and Node.js, and contributing to open-source projects to strengthen my frontend skills<br>👯 I’m looking to collaborate on React and TypeScript projects, open-source contributions, and web apps that solve real-world problems<br>🤔 I’m looking for help with best practices in frontend development, UI/UX improvements, and scaling frontend applications<br>📚 I’m currently learning Vue.js, advanced React patterns, TypeScript, and frontend architecture<br>💬 Ask me about React, TypeScript, JavaScript, frontend architecture, or building clean and maintainable code<br><br>
+🚀 I’m currently working on building a full-stack web app using React, TypeScript, and Node.js<br>💬 Ask me about React, TypeScript, JavaScript, Node/Nest Js, frontend and backend architecture, or building clean and maintainable code<br><br>
 
 
 # 💻 Tech Stack:
