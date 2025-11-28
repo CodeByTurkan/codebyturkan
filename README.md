@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, It is Turkan
 🚀 I’m currently working on building a full-stack web app using React, TypeScript, and Node.js<br>💬 Ask me about React, TypeScript, JavaScript, Node/Nest Js, frontend and backend architecture, or building clean and maintainable code<br><br>
 
 
